@@ -1,0 +1,6 @@
+[submodule "suniv-dma"]
+	path = suniv-dma
+	url = https://github.com/AllwinnerSuniv/suniv-dma.git
+[submodule "i2c-suniv"]
+	path = i2c-suniv
+	url = https://github.com/AllwinnerSuniv/i2c-suniv.git
